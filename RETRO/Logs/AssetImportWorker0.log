@@ -384,3 +384,81 @@ System memory in use after: 78.9 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2135.
 Total: 3.090000 ms (FindLiveObjects: 0.197900 ms CreateObjectMapping: 0.083400 ms MarkObjects: 2.697600 ms  DeleteObjects: 0.110000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 201.697845 seconds.
+  path: Assets/Scenes/VR Bowling.unity
+  artifactKey: Guid(bf65dd9a70e86df48b5d2c1ca74cf285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Bowling.unity using Guid(bf65dd9a70e86df48b5d2c1ca74cf285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba32e1fb54b10d05cdb2e1d8617c31fb') in 0.024208 seconds
+  Import took 0.027433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.615589 seconds.
+  path: Assets/Scenes/Intro.unity
+  artifactKey: Guid(920228aec324036448955ad446b8aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Intro.unity using Guid(920228aec324036448955ad446b8aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a24a9d354cfc9012d3826252182c73') in 0.008200 seconds
+  Import took 0.013586 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\christophe\Documents\GitHub\Unity_codeName_RETRO\RETRO\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\christophe\Documents\GitHub\Unity_codeName_RETRO\RETRO\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.022 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 1605 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.8 MB.
+System memory in use after: 78.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2139.
+Total: 2.196700 ms (FindLiveObjects: 0.187400 ms CreateObjectMapping: 0.107600 ms MarkObjects: 1.850600 ms  DeleteObjects: 0.049700 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 47.1 MB.
+System memory in use after: 47.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2139.
+Total: 3.215200 ms (FindLiveObjects: 0.168000 ms CreateObjectMapping: 0.075100 ms MarkObjects: 2.916500 ms  DeleteObjects: 0.054000 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 47.1 MB.
+System memory in use after: 47.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2139.
+Total: 7.472500 ms (FindLiveObjects: 0.369600 ms CreateObjectMapping: 0.424400 ms MarkObjects: 6.348000 ms  DeleteObjects: 0.328900 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 47.1 MB.
+System memory in use after: 47.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2139.
+Total: 3.850000 ms (FindLiveObjects: 0.171200 ms CreateObjectMapping: 0.076300 ms MarkObjects: 3.545100 ms  DeleteObjects: 0.056000 ms)
+

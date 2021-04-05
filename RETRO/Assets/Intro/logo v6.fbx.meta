@@ -3,7 +3,12 @@ guid: d6025fe993a2d6742b6d1ad33cfbf1df
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Enamel Glossy (Green)
+    second: {fileID: 2100000, guid: 501d8db2729967649a7df443959f1ecf, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

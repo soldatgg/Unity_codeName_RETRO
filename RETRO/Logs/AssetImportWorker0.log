@@ -695,3 +695,72 @@ System memory in use after: 79.3 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2179.
 Total: 2.263700 ms (FindLiveObjects: 0.167200 ms CreateObjectMapping: 0.055800 ms MarkObjects: 1.975600 ms  DeleteObjects: 0.064000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 2326.232419 seconds.
+  path: Assets/Intro/CTN engine logo v1.fbx
+  artifactKey: Guid(8b3e93b3e27673844965b8990d6aba5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Intro/CTN engine logo v1.fbx using Guid(8b3e93b3e27673844965b8990d6aba5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40458421610c15cb6edc9d517c879ed3') in 0.252377 seconds
+  Import took 0.256566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.817572 seconds.
+  path: Assets/mats/Unicolor/Blue.mat
+  artifactKey: Guid(30ffef227004e44469d5723a88a470ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mats/Unicolor/Blue.mat using Guid(30ffef227004e44469d5723a88a470ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a359385cc0411e3677477471b64ed2e') in 0.040713 seconds
+  Import took 0.046221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.113037 seconds.
+  path: Assets/mats/Unicolor/New Material.mat
+  artifactKey: Guid(c1b015bd23902db4bb89dc8e50da5756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mats/Unicolor/New Material.mat using Guid(c1b015bd23902db4bb89dc8e50da5756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88f37f15a34d338d717bdd875014cc0') in 0.024776 seconds
+  Import took 0.028423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.696289 seconds.
+  path: Assets/Animation
+  artifactKey: Guid(3076779bd08325244876543d95b9a6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(3076779bd08325244876543d95b9a6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d591717a75553fff7bcd9504ca5ffc') in 0.020587 seconds
+  Import took 0.030031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.246120 seconds.
+  path: Assets/Intro/Animation/Logo animation.anim
+  artifactKey: Guid(c7d43a9e1435eb445aa4985a7e14baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Intro/Animation/Logo animation.anim using Guid(c7d43a9e1435eb445aa4985a7e14baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed94c02c81978af5611e0982d90c9b04') in 0.021701 seconds
+  Import took 0.025601 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002530 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\christophe\Documents\GitHub\Unity_codeName_RETRO\RETRO\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\christophe\Documents\GitHub\Unity_codeName_RETRO\RETRO\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Unloading 1605 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.4 MB.
+System memory in use after: 79.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2187.
+Total: 4.374000 ms (FindLiveObjects: 0.750900 ms CreateObjectMapping: 0.149900 ms MarkObjects: 3.393800 ms  DeleteObjects: 0.077100 ms)
+

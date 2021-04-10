@@ -114,3 +114,35 @@ Received Import Request.
 Start importing Assets/mats/Util/TEST clip.png using Guid(00ec7f9a6348ead44ab6e70f3c5961f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd050c02186f1e70e92fe93eec8e45c9') in 0.014929 seconds
   Import took 0.023125 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 31.750295 seconds.
+  path: Assets/mats/Util/Materials/Anchor clip.mat
+  artifactKey: Guid(af0a4eac965a1534e94c76ec6487cd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mats/Util/Materials/Anchor clip.mat using Guid(af0a4eac965a1534e94c76ec6487cd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598afa82b3356dae74b8bef0c8f04ace') in 0.019967 seconds
+  Import took 0.023716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/mats/Util/Materials/mouv clip.mat
+  artifactKey: Guid(2d2780ba2dac58f49b58a62cecd33d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mats/Util/Materials/mouv clip.mat using Guid(2d2780ba2dac58f49b58a62cecd33d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63e17637fe08ccbfdd0fe3ff8dd0f1c') in 0.040534 seconds
+  Import took 0.043407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.116111 seconds.
+  path: Assets/mats/Util/Materials/TEST clip.mat
+  artifactKey: Guid(cc74cd59c2182154c8a30c8d567d25d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mats/Util/Materials/TEST clip.mat using Guid(cc74cd59c2182154c8a30c8d567d25d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2703e798ff012c86d7e5b0d6fd7650ab') in 0.017465 seconds
+  Import took 0.020932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.350099 seconds.
+  path: Assets/mats/Util/Materials/TEST clip.mat
+  artifactKey: Guid(cc74cd59c2182154c8a30c8d567d25d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mats/Util/Materials/TEST clip.mat using Guid(cc74cd59c2182154c8a30c8d567d25d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c724f3081ac7b3468c9ba7d42ed504') in 0.029953 seconds
+  Import took 0.034060 seconds .
+
